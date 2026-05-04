@@ -1,8 +1,6 @@
-
-
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:flutter_project/screens/homepage.dart';
+import 'package:workers_campe/screens/homepage.dart';
 // voglio creare una schermata di login per la mia app
 void main() {
   runApp(MyApp());
